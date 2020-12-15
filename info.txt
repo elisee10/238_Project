@@ -1,0 +1,8 @@
+fever:Stay in bed and rest. Keep hydrated. Take over-the-counter medications like acetaminophen and ibuprofen to reduce fever. Stay cool. Take tepid baths or using cold compresses to make you more comfortable.
+chills:Drink lots of fluids and get plenty of rest. Sponge with lukewarm water. Take acetaminophen to fight fever and chills. Don't bundle up in blankets or use air conditioning.
+cough:Liquids, lozenges, cough drops, vaporizers, and steamy showers may help soothe a cough. Over-the-counter cough medicine may also help. 
+headache:Over-the-counter remedies that may reduce headache pain include aspirin, acetaminophen and ibuprofen. Resting in a darkened room may also help.
+sore_throat:Drinking plenty of liquids, gargling with warm saltwater, and if over 4 years old, sucking on lozenges may ease a sore throat. Taking an over-the-counter pain medication such as ibuprofen, acetaminophen or naproxen may also help.
+shortness_of_breathe:Avoiding smoking, secondhand smoke, and areas with high air pollution or elevations over 5,000 feet may help ease shortness of breath. Losing weight and exercising regularly may also help.
+nausea:Resting, eating bland foods, and avoiding strong food odors, perfume, smoke, and stuffy rooms, may help reduce nausea. Taking an over-the-counter motion sickness medication may also help ease symptoms.
+runny_nose:Drinking plenty of water and using a humidifier may help relieve symptoms. If the runny nose is caused by allergies, taking an over-the-counter non-sedating antihistamine may also help.
